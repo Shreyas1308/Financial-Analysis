@@ -24,3 +24,9 @@ Debt-Equity (D/E) Ratio = Total Debt/Total EquityWhile looking for a debt-equity
 Earning Per Share is one such useful measure which the investors look for all the time. It shows the amount of money which the company is earning on every share. EPS of a company needs to increase in a consistent manner to show superior management performance.
 
 Earning Per Share = (Net Income – Preference Dividend)/Weighted Average Number of Shares OutstandingEPS of one company can be compared with its past performance and with that of other companies in the same industry. It can be used to ascertain what portion of profit is the company allocating to each outstanding share. Investors usually go for companies which have steadily increasing earnings per share. It can be easily used to compare performance across industries.
+
+4. `Price to Earning Ratio (PER)`
+
+Price to Earning Ratio compares the current market price of the share with the earnings per share. It tells you the price which the investors are willing to pay for the share depending on the current earnings.
+
+Price to Earning Ratio = Current Share Price/Earning Per ShareThis ratio also indicates the number of years that will be required to get back the initial invested capital by way of returns. You need to look for stocks which have a low price to earnings ratio. You can easily compare P/E ratio of a company with its past performance and also with other companies operational in the same industry. Ideally, this ratio is suitable to analyse performance of companies present in FMCG, pharmaceutical and technology sector.
